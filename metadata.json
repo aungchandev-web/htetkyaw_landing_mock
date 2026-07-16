@@ -1,0 +1,6 @@
+{
+  "name": "HtetKyaw Rice Mill",
+  "description": "Premium landing page for HtetKyaw, a leading modern rice milling and trading business in Myanmar, highlighting operational excellence, high-tech facilities, and reliable wholesale distribution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
